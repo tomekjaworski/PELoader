@@ -1,0 +1,4 @@
+LIBRARY   some_test_library
+EXPORTS
+;  some_function   @1
+
