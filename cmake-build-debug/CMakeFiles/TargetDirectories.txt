@@ -1,0 +1,10 @@
+/media/sf_CProgramming/PELoader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Core/CMakeFiles/rebuild_cache.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Core/CMakeFiles/edit_cache.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Core/CMakeFiles/Core64.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Core/CMakeFiles/Core32.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/CMakeFiles/edit_cache.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/CMakeFiles/Sandbox64.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/CMakeFiles/rebuild_cache.dir
+/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/CMakeFiles/Sandbox32.dir

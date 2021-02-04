@@ -1,0 +1,810 @@
+Archive member included to satisfy reference by file (symbol)
+
+//usr/lib32/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o (__libc_csu_init)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ .group         0x0000000000000000        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .group         0x0000000000000000        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0x8 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+LOAD CMakeFiles/Sandbox32.dir/test.cpp.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/libpthread.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/libc.so
+START GROUP
+LOAD //lib32/libc.so.6
+LOAD //usr/lib32/libc_nonshared.a
+LOAD //lib32/ld-linux.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x0))
+                0x0000000000000194                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.interp         0x0000000000000194       0x13
+ *(.interp)
+ .interp        0x0000000000000194       0x13 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.note.ABI-tag   0x00000000000001a8       0x20
+ .note.ABI-tag  0x00000000000001a8       0x20 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001ec       0x20
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001ec       0x20 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.dynsym         0x000000000000020c      0x140
+ *(.dynsym)
+ .dynsym        0x000000000000020c      0x140 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.dynstr         0x000000000000034c      0x15e
+ *(.dynstr)
+ .dynstr        0x000000000000034c      0x15e /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.gnu.version    0x00000000000004aa       0x28
+ *(.gnu.version)
+ .gnu.version   0x00000000000004aa       0x28 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.gnu.version_d  0x00000000000004d4        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000004d4        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.gnu.version_r  0x00000000000004d4       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000004d4       0x70 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.rel.dyn        0x0000000000000544       0x40
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt6vectorIiSaIiEEC2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt6vectorIiSaIiEED2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt6vectorIiSaIiEE9push_backERKi
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt6vectorIiSaIiEE5beginEv
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt6vectorIiSaIiEE3endEv
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZN9__gnu_cxxneIPiSt6vectorIiSaIiEEEEbRKNS_17__normal_iteratorIT_T0_EESA_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt12_Vector_baseIiSaIiEE12_Vector_implD2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt12_Vector_baseIiSaIiEEC2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt12_Vector_baseIiSaIiEED2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt8_DestroyIPiiEvT_S1_RSaIT0_E
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt16allocator_traitsISaIiEE9constructIiJRKiEEEvRS0_PT_DpOT0_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt6vectorIiSaIiEE17_M_realloc_insertIJRKiEEEvN9__gnu_cxx17__normal_iteratorIPiS1_EEDpOT_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt12_Vector_baseIiSaIiEE12_Vector_implC2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSaIiED2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt12_Vector_baseIiSaIiEE13_M_deallocateEPij
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt8_DestroyIPiEvT_S1_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZN9__gnu_cxx13new_allocatorIiE9constructIiJRKiEEEvPT_DpOT0_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNKSt6vectorIiSaIiEE12_M_check_lenEjPKc
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZN9__gnu_cxxmiIPiSt6vectorIiSaIiEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS8_SB_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt12_Vector_baseIiSaIiEE11_M_allocateEj
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt32__make_move_if_noexcept_iteratorIiSt13move_iteratorIPiEET0_PT_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt34__uninitialized_move_if_noexcept_aIPiS0_SaIiEET0_T_S3_S2_RT1_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSaIiEC2Ev
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt16allocator_traitsISaIiEE10deallocateERS0_Pij
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNKSt6vectorIiSaIiEE8max_sizeEv
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt16allocator_traitsISaIiEE8allocateERS0_j
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt22__uninitialized_copy_aISt13move_iteratorIPiES1_iET0_T_S4_S3_RSaIT1_E
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt16allocator_traitsISaIiEE8max_sizeERKS0_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZN9__gnu_cxx13new_allocatorIiE8allocateEjPKv
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt18uninitialized_copyISt13move_iteratorIPiES1_ET0_T_S4_S3_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyISt13move_iteratorIPiES3_EET0_T_S6_S5_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt4copyISt13move_iteratorIPiES1_ET0_T_S4_S3_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt12__miter_baseIPiEDTcl12__miter_basecldtfp_4baseEEESt13move_iteratorIT_E
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt14__copy_move_a2ILb1EPiS0_ET1_T0_S2_S1_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.text._ZSt13__copy_move_aILb1EPiS0_ET1_T0_S2_S1_
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro
+                0x0000000000000544        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel.local
+                0x0000000000000544        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000000000000054c       0x28 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x0000000000000574        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.ifunc)
+ .rel.ifunc     0x0000000000000574        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.fini_array
+                0x0000000000000574        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.init_array
+                0x000000000000057c        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.rel.plt        0x0000000000000584       0x70
+ *(.rel.plt)
+ .rel.plt       0x0000000000000584       0x70 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                [!provide]                        PROVIDE (__rel_iplt_start = .)
+ *(.rel.iplt)
+                [!provide]                        PROVIDE (__rel_iplt_end = .)
+                0x0000000000001000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000001000       0x20
+ *(SORT_NONE(.init))
+ .init          0x0000000000001000       0x1b /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+                0x0000000000001000                _init
+ .init          0x000000000000101b        0x5 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+
+.plt            0x0000000000001020       0xf0
+ *(.plt)
+ .plt           0x0000000000001020       0xf0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.iplt)
+
+.plt.got        0x0000000000001110        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000001110        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000001120      0xfd1
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001120       0x36 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000001120                _start
+ .text          0x0000000000001156        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ *fill*         0x0000000000001156        0xa 
+ .gnu.linkonce.t.__x86.get_pc_thunk.bx
+                0x0000000000001160        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+                0x0000000000001160                __x86.get_pc_thunk.bx
+ *fill*         0x0000000000001164        0xc 
+ .text          0x0000000000001170       0xe5 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .text.__x86.get_pc_thunk.dx
+                0x0000000000001255        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                0x0000000000001255                __x86.get_pc_thunk.dx
+ .text          0x0000000000001259      0x2f2 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001259                _main()
+                0x0000000000001269                main
+ .text._ZnwjPv  0x000000000000154b       0x12 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x000000000000154b                operator new(unsigned int, void*)
+ *fill*         0x000000000000155d        0x1 
+ .text._ZN1XC2Ev
+                0x000000000000155e       0x2b CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x000000000000155e                X::X()
+                0x000000000000155e                X::X()
+ .text._ZN1XnwEj
+                0x0000000000001589       0x2c CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001589                X::operator new(unsigned int)
+ *fill*         0x00000000000015b5        0x1 
+ .text._ZNSt6vectorIiSaIiEEC2Ev
+                0x00000000000015b6       0x22 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000015b6                std::vector<int, std::allocator<int> >::vector()
+                0x00000000000015b6                std::vector<int, std::allocator<int> >::vector()
+ .text._ZNSt6vectorIiSaIiEED2Ev
+                0x00000000000015d8       0x4c CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000015d8                std::vector<int, std::allocator<int> >::~vector()
+                0x00000000000015d8                std::vector<int, std::allocator<int> >::~vector()
+ .text._ZNSt6vectorIiSaIiEE9push_backERKi
+                0x0000000000001624       0x73 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001624                std::vector<int, std::allocator<int> >::push_back(int const&)
+ *fill*         0x0000000000001697        0x1 
+ .text._ZNSt6vectorIiSaIiEE5beginEv
+                0x0000000000001698       0x29 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001698                std::vector<int, std::allocator<int> >::begin()
+ *fill*         0x00000000000016c1        0x1 
+ .text._ZNSt6vectorIiSaIiEE3endEv
+                0x00000000000016c2       0x2c CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000016c2                std::vector<int, std::allocator<int> >::end()
+ .text._ZN9__gnu_cxxneIPiSt6vectorIiSaIiEEEEbRKNS_17__normal_iteratorIT_T0_EESA_
+                0x00000000000016ee       0x3b CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000016ee                bool __gnu_cxx::operator!=<int*, std::vector<int, std::allocator<int> > >(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > > const&, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > > const&)
+ *fill*         0x0000000000001729        0x1 
+ .text._ZN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEppEv
+                0x000000000000172a       0x1f CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x000000000000172a                __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::operator++()
+ *fill*         0x0000000000001749        0x1 
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEdeEv
+                0x000000000000174a       0x14 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x000000000000174a                __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::operator*() const
+ .text._ZNSt12_Vector_baseIiSaIiEE12_Vector_implD2Ev
+                0x000000000000175e       0x21 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x000000000000175e                std::_Vector_base<int, std::allocator<int> >::_Vector_impl::~_Vector_impl()
+                0x000000000000175e                std::_Vector_base<int, std::allocator<int> >::_Vector_impl::~_Vector_impl()
+ *fill*         0x000000000000177f        0x1 
+ .text._ZNSt12_Vector_baseIiSaIiEEC2Ev
+                0x0000000000001780       0x22 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001780                std::_Vector_base<int, std::allocator<int> >::_Vector_base()
+                0x0000000000001780                std::_Vector_base<int, std::allocator<int> >::_Vector_base()
+ .text._ZNSt12_Vector_baseIiSaIiEED2Ev
+                0x00000000000017a2       0x4b CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000017a2                std::_Vector_base<int, std::allocator<int> >::~_Vector_base()
+                0x00000000000017a2                std::_Vector_base<int, std::allocator<int> >::~_Vector_base()
+ *fill*         0x00000000000017ed        0x1 
+ .text._ZNSt12_Vector_baseIiSaIiEE19_M_get_Tp_allocatorEv
+                0x00000000000017ee       0x12 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000017ee                std::_Vector_base<int, std::allocator<int> >::_M_get_Tp_allocator()
+ .text._ZSt8_DestroyIPiiEvT_S1_RSaIT0_E
+                0x0000000000001800       0x24 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001800                void std::_Destroy<int*, int>(int*, int*, std::allocator<int>&)
+ .text._ZSt7forwardIRKiEOT_RNSt16remove_referenceIS2_E4typeE
+                0x0000000000001824       0x12 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001824                int const& std::forward<int const&>(std::remove_reference<int const&>::type&)
+ .text._ZNSt16allocator_traitsISaIiEE9constructIiJRKiEEEvRS0_PT_DpOT0_
+                0x0000000000001836       0x33 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001836                void std::allocator_traits<std::allocator<int> >::construct<int, int const&>(std::allocator<int>&, int*, int const&)
+ *fill*         0x0000000000001869        0x1 
+ .text._ZNSt6vectorIiSaIiEE17_M_realloc_insertIJRKiEEEvN9__gnu_cxx17__normal_iteratorIPiS1_EEDpOT_
+                0x000000000000186a      0x190 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x000000000000186a                void std::vector<int, std::allocator<int> >::_M_realloc_insert<int const&>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, int const&)
+ .text._ZN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEC2ERKS1_
+                0x00000000000019fa       0x1a CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000019fa                __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::__normal_iterator(int* const&)
+                0x00000000000019fa                __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::__normal_iterator(int* const&)
+ .text._ZNK9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEE4baseEv
+                0x0000000000001a14       0x12 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001a14                __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::base() const
+ .text._ZNSt12_Vector_baseIiSaIiEE12_Vector_implC2Ev
+                0x0000000000001a26       0x3e CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001a26                std::_Vector_base<int, std::allocator<int> >::_Vector_impl::_Vector_impl()
+                0x0000000000001a26                std::_Vector_base<int, std::allocator<int> >::_Vector_impl::_Vector_impl()
+ .text._ZNSaIiED2Ev
+                0x0000000000001a64       0x21 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001a64                std::allocator<int>::~allocator()
+                0x0000000000001a64                std::allocator<int>::~allocator()
+ *fill*         0x0000000000001a85        0x1 
+ .text._ZNSt12_Vector_baseIiSaIiEE13_M_deallocateEPij
+                0x0000000000001a86       0x2e CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001a86                std::_Vector_base<int, std::allocator<int> >::_M_deallocate(int*, unsigned int)
+ .text._ZSt8_DestroyIPiEvT_S1_
+                0x0000000000001ab4       0x24 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001ab4                void std::_Destroy<int*>(int*, int*)
+ .text._ZN9__gnu_cxx13new_allocatorIiE9constructIiJRKiEEEvPT_DpOT0_
+                0x0000000000001ad8       0x3a CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001ad8                void __gnu_cxx::new_allocator<int>::construct<int, int const&>(int*, int const&)
+ .text._ZNKSt6vectorIiSaIiEE12_M_check_lenEjPKc
+                0x0000000000001b12       0xc8 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001b12                std::vector<int, std::allocator<int> >::_M_check_len(unsigned int, char const*) const
+ .text._ZN9__gnu_cxxmiIPiSt6vectorIiSaIiEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS8_SB_
+                0x0000000000001bda       0x3d CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001bda                __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::difference_type __gnu_cxx::operator-<int*, std::vector<int, std::allocator<int> > >(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > > const&, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > > const&)
+ *fill*         0x0000000000001c17        0x1 
+ .text._ZNSt12_Vector_baseIiSaIiEE11_M_allocateEj
+                0x0000000000001c18       0x31 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001c18                std::_Vector_base<int, std::allocator<int> >::_M_allocate(unsigned int)
+ .text._ZSt32__make_move_if_noexcept_iteratorIiSt13move_iteratorIPiEET0_PT_
+                0x0000000000001c49       0x28 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001c49                std::move_iterator<int*> std::__make_move_if_noexcept_iterator<int, std::move_iterator<int*> >(int*)
+ .text._ZSt34__uninitialized_move_if_noexcept_aIPiS0_SaIiEET0_T_S3_S2_RT1_
+                0x0000000000001c71       0x4a CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001c71                int* std::__uninitialized_move_if_noexcept_a<int*, int*, std::allocator<int> >(int*, int*, int*, std::allocator<int>&)
+ *fill*         0x0000000000001cbb        0x1 
+ .text._ZNSaIiEC2Ev
+                0x0000000000001cbc       0x21 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001cbc                std::allocator<int>::allocator()
+                0x0000000000001cbc                std::allocator<int>::allocator()
+ *fill*         0x0000000000001cdd        0x1 
+ .text._ZN9__gnu_cxx13new_allocatorIiED2Ev
+                0x0000000000001cde       0x10 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001cde                __gnu_cxx::new_allocator<int>::~new_allocator()
+                0x0000000000001cde                __gnu_cxx::new_allocator<int>::~new_allocator()
+ .text._ZNSt16allocator_traitsISaIiEE10deallocateERS0_Pij
+                0x0000000000001cee       0x27 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001cee                std::allocator_traits<std::allocator<int> >::deallocate(std::allocator<int>&, int*, unsigned int)
+ .text._ZNSt12_Destroy_auxILb1EE9__destroyIPiEEvT_S3_
+                0x0000000000001d15       0x10 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001d15                void std::_Destroy_aux<true>::__destroy<int*>(int*, int*)
+ *fill*         0x0000000000001d25        0x1 
+ .text._ZNKSt6vectorIiSaIiEE8max_sizeEv
+                0x0000000000001d26       0x2d CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001d26                std::vector<int, std::allocator<int> >::max_size() const
+ *fill*         0x0000000000001d53        0x1 
+ .text._ZNKSt6vectorIiSaIiEE4sizeEv
+                0x0000000000001d54       0x21 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001d54                std::vector<int, std::allocator<int> >::size() const
+ .text._ZSt3maxIjERKT_S2_S2_
+                0x0000000000001d75       0x25 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001d75                unsigned int const& std::max<unsigned int>(unsigned int const&, unsigned int const&)
+ .text._ZNSt16allocator_traitsISaIiEE8allocateERS0_j
+                0x0000000000001d9a       0x25 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001d9a                std::allocator_traits<std::allocator<int> >::allocate(std::allocator<int>&, unsigned int)
+ *fill*         0x0000000000001dbf        0x1 
+ .text._ZNSt13move_iteratorIPiEC2ES0_
+                0x0000000000001dc0       0x18 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001dc0                std::move_iterator<int*>::move_iterator(int*)
+                0x0000000000001dc0                std::move_iterator<int*>::move_iterator(int*)
+ .text._ZSt22__uninitialized_copy_aISt13move_iteratorIPiES1_iET0_T_S4_S3_RSaIT1_E
+                0x0000000000001dd8       0x26 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001dd8                int* std::__uninitialized_copy_a<std::move_iterator<int*>, int*, int>(std::move_iterator<int*>, std::move_iterator<int*>, int*, std::allocator<int>&)
+ .text._ZN9__gnu_cxx13new_allocatorIiEC2Ev
+                0x0000000000001dfe       0x10 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001dfe                __gnu_cxx::new_allocator<int>::new_allocator()
+                0x0000000000001dfe                __gnu_cxx::new_allocator<int>::new_allocator()
+ .text._ZN9__gnu_cxx13new_allocatorIiE10deallocateEPij
+                0x0000000000001e0e       0x26 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001e0e                __gnu_cxx::new_allocator<int>::deallocate(int*, unsigned int)
+ .text._ZNSt16allocator_traitsISaIiEE8max_sizeERKS0_
+                0x0000000000001e34       0x20 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001e34                std::allocator_traits<std::allocator<int> >::max_size(std::allocator<int> const&)
+ .text._ZNKSt12_Vector_baseIiSaIiEE19_M_get_Tp_allocatorEv
+                0x0000000000001e54       0x12 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001e54                std::_Vector_base<int, std::allocator<int> >::_M_get_Tp_allocator() const
+ .text._ZN9__gnu_cxx13new_allocatorIiE8allocateEjPKv
+                0x0000000000001e66       0x47 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001e66                __gnu_cxx::new_allocator<int>::allocate(unsigned int, void const*)
+ .text._ZSt18uninitialized_copyISt13move_iteratorIPiES1_ET0_T_S4_S3_
+                0x0000000000001ead       0x2a CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001ead                int* std::uninitialized_copy<std::move_iterator<int*>, int*>(std::move_iterator<int*>, std::move_iterator<int*>, int*)
+ *fill*         0x0000000000001ed7        0x1 
+ .text._ZNK9__gnu_cxx13new_allocatorIiE8max_sizeEv
+                0x0000000000001ed8       0x14 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001ed8                __gnu_cxx::new_allocator<int>::max_size() const
+ .text._ZNSt20__uninitialized_copyILb1EE13__uninit_copyISt13move_iteratorIPiES3_EET0_T_S6_S5_
+                0x0000000000001eec       0x26 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001eec                int* std::__uninitialized_copy<true>::__uninit_copy<std::move_iterator<int*>, int*>(std::move_iterator<int*>, std::move_iterator<int*>, int*)
+ .text._ZNKSt13move_iteratorIPiE4baseEv
+                0x0000000000001f12       0x14 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001f12                std::move_iterator<int*>::base() const
+ .text._ZSt4copyISt13move_iteratorIPiES1_ET0_T_S4_S3_
+                0x0000000000001f26       0x44 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001f26                int* std::copy<std::move_iterator<int*>, int*>(std::move_iterator<int*>, std::move_iterator<int*>, int*)
+ .text._ZSt12__miter_baseIPiEDTcl12__miter_basecldtfp_4baseEEESt13move_iteratorIT_E
+                0x0000000000001f6a       0x2d CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001f6a                decltype (__miter_base(({parm#1}.base)())) std::__miter_base<int*>(std::move_iterator<int*>)
+ .text._ZSt14__copy_move_a2ILb1EPiS0_ET1_T0_S2_S1_
+                0x0000000000001f97       0x52 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001f97                int* std::__copy_move_a2<true, int*, int*>(int*, int*, int*)
+ .text._ZSt12__miter_baseIPiET_S1_
+                0x0000000000001fe9       0x12 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001fe9                int* std::__miter_base<int*>(int*)
+ .text._ZSt12__niter_baseIPiET_S1_
+                0x0000000000001ffb       0x12 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000001ffb                int* std::__niter_base<int*>(int*)
+ .text._ZSt13__copy_move_aILb1EPiS0_ET1_T0_S2_S1_
+                0x000000000000200d       0x2a CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x000000000000200d                int* std::__copy_move_a<true, int*, int*>(int*, int*, int*)
+ .text._ZNSt11__copy_moveILb1ELb1ESt26random_access_iterator_tagE8__copy_mIiEEPT_PKS3_S6_S4_
+                0x0000000000002037       0x51 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000002037                int* std::__copy_move<true, true, std::random_access_iterator_tag>::__copy_m<int>(int const*, int const*, int*)
+ .text.__x86.get_pc_thunk.ax
+                0x0000000000002088        0x4 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000002088                __x86.get_pc_thunk.ax
+ *fill*         0x000000000000208c        0x4 
+ .text          0x0000000000002090       0x61 //usr/lib32/libc_nonshared.a(elf-init.oS)
+                0x0000000000002090                __libc_csu_init
+                0x00000000000020f0                __libc_csu_fini
+ .text          0x00000000000020f1        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .text          0x00000000000020f1        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+ *(.gnu.warning)
+
+.fini           0x00000000000020f4       0x14
+ *(SORT_NONE(.fini))
+ .fini          0x00000000000020f4        0xf /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+                0x00000000000020f4                _fini
+ .fini          0x0000000000002103        0x5 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000003000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000003000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000003000      0x125
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000003000        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000003000                _fp_hw
+ .rodata.cst4   0x0000000000003004        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000003004                _IO_stdin_used
+ .rodata        0x0000000000003008      0x11d CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000003128      0x214
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000003128      0x214 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000003128                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x000000000000333c      0x8a8
+ *(.eh_frame)
+ .eh_frame      0x000000000000333c       0x2c /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .eh_frame      0x0000000000003368       0x3c /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000033a4       0x14 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                                         0x2c (size before relaxing)
+ .eh_frame      0x00000000000033b8      0x7c8 CMakeFiles/Sandbox32.dir/test.cpp.o
+                                        0x7f4 (size before relaxing)
+ .eh_frame      0x0000000000003b80       0x60 //usr/lib32/libc_nonshared.a(elf-init.oS)
+                                         0x8c (size before relaxing)
+ .eh_frame      0x0000000000003be0        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000004ecc                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata          0x0000000000004ecc        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000004ecc        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000004ecc        0x4
+                0x0000000000004ecc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000004ecc        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                0x0000000000004ed0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000004ed0        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000004ed0        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000004ed4        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000004ed4        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.dynamic        0x0000000000004ed4      0x118
+ *(.dynamic)
+ .dynamic       0x0000000000004ed4      0x118 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000004ed4                _DYNAMIC
+
+.got            0x0000000000004fec       0x14
+ *(.got)
+ .got           0x0000000000004fec       0x14 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.igot)
+                0x0000000000005ff4                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000000000005000       0x44
+ *(.got.plt)
+ .got.plt       0x0000000000005000       0x44 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000005000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000005044        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000005044        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000005044                data_start
+                0x0000000000005044                __data_start
+ .data          0x0000000000005048        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ .data          0x0000000000005048        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .data.rel.local
+                0x0000000000005048        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                0x0000000000005048                __dso_handle
+ .data          0x000000000000504c        0x0 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .data          0x000000000000504c        0x0 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .data          0x000000000000504c        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .data          0x000000000000504c        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+
+.tm_clone_table
+                0x000000000000504c        0x0
+ .tm_clone_table
+                0x000000000000504c        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .tm_clone_table
+                0x000000000000504c        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000000504c                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x000000000000504c                . = .
+                0x000000000000504c                __bss_start = .
+
+.bss            0x000000000000504c        0x4
+ *(.dynbss)
+ .dynbss        0x000000000000504c        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000000504c        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .bss           0x000000000000504c        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ .bss           0x000000000000504c        0x1 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .bss           0x000000000000504d        0x0 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .bss           0x000000000000504d        0x0 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .bss           0x000000000000504d        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .bss           0x000000000000504d        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+ *(COMMON)
+                0x0000000000005050                . = ALIGN ((. != 0x0)?0x4:0x1)
+ *fill*         0x000000000000504d        0x3 
+                0x0000000000005050                . = ALIGN (0x4)
+                0x0000000000005050                . = SEGMENT_START ("ldata-segment", .)
+                0x0000000000005050                . = ALIGN (0x4)
+                0x0000000000005050                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000005050                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x1c
+ *(.comment)
+ .comment       0x0000000000000000       0x1c /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                                         0x1d (size before relaxing)
+ .comment       0x000000000000001c       0x1d CMakeFiles/Sandbox32.dir/test.cpp.o
+ .comment       0x000000000000001c       0x1d /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1e8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x1e8 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x4256
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x4256 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_abbrev   0x0000000000000000      0x8ca
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x8ca CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_line     0x0000000000000000      0xb8c
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0xb8c CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x3700
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x3700 CMakeFiles/Sandbox32.dir/test.cpp.o
+                                       0x3912 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x1d8
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x1d8 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(Sandbox32 elf32-i386)

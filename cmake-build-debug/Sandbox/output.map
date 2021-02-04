@@ -1,0 +1,487 @@
+Archive member included to satisfy reference by file (symbol)
+
+//usr/lib32/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o (__libc_csu_init)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ .group         0x0000000000000000        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .group         0x0000000000000000        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .group         0x0000000000000000        0x8 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .group         0x0000000000000000        0x8 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .text.__x86.get_pc_thunk.bx
+                0x0000000000000000        0x4 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+LOAD CMakeFiles/Sandbox32.dir/test.cpp.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/libpthread.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/libc.so
+START GROUP
+LOAD //lib32/libc.so.6
+LOAD //usr/lib32/libc_nonshared.a
+LOAD //lib32/ld-linux.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x0))
+                0x0000000000000194                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.interp         0x0000000000000194       0x13
+ *(.interp)
+ .interp        0x0000000000000194       0x13 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.note.ABI-tag   0x00000000000001a8       0x20
+ .note.ABI-tag  0x00000000000001a8       0x20 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001ec       0x20
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001ec       0x20 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.dynsym         0x000000000000020c       0xb0
+ *(.dynsym)
+ .dynsym        0x000000000000020c       0xb0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.dynstr         0x00000000000002bc       0xf5
+ *(.dynstr)
+ .dynstr        0x00000000000002bc       0xf5 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.gnu.version    0x00000000000003b2       0x16
+ *(.gnu.version)
+ .gnu.version   0x00000000000003b2       0x16 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.gnu.version_d  0x00000000000003c8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000003c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.gnu.version_r  0x00000000000003c8       0x30
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000003c8       0x30 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.rel.dyn        0x00000000000003f8       0x40
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro
+                0x00000000000003f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel.local
+                0x00000000000003f8        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000000000000400       0x28 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x0000000000000428        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.rel.ifunc)
+ .rel.ifunc     0x0000000000000428        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.fini_array
+                0x0000000000000428        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .rel.init_array
+                0x0000000000000430        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.rel.plt        0x0000000000000438       0x28
+ *(.rel.plt)
+ .rel.plt       0x0000000000000438       0x28 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                [!provide]                        PROVIDE (__rel_iplt_start = .)
+ *(.rel.iplt)
+                [!provide]                        PROVIDE (__rel_iplt_end = .)
+                0x0000000000001000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000001000       0x20
+ *(SORT_NONE(.init))
+ .init          0x0000000000001000       0x1b /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+                0x0000000000001000                _init
+ .init          0x000000000000101b        0x5 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+
+.plt            0x0000000000001020       0x60
+ *(.plt)
+ .plt           0x0000000000001020       0x60 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.iplt)
+
+.plt.got        0x0000000000001080        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000001080        0x8 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000001090      0x281
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001090       0x36 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000001090                _start
+ .text          0x00000000000010c6        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ *fill*         0x00000000000010c6        0xa 
+ .gnu.linkonce.t.__x86.get_pc_thunk.bx
+                0x00000000000010d0        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+                0x00000000000010d0                __x86.get_pc_thunk.bx
+ *fill*         0x00000000000010d4        0xc 
+ .text          0x00000000000010e0       0xe5 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .text.__x86.get_pc_thunk.dx
+                0x00000000000011c5        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                0x00000000000011c5                __x86.get_pc_thunk.dx
+ .text          0x00000000000011c9       0xdc CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000011c9                f4()
+                0x00000000000011fe                f3()
+                0x0000000000001216                f2()
+                0x000000000000122e                f1()
+                0x0000000000001246                main
+ .text.__x86.get_pc_thunk.ax
+                0x00000000000012a5        0x4 CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x00000000000012a5                __x86.get_pc_thunk.ax
+ *fill*         0x00000000000012a9        0x7 
+ .text          0x00000000000012b0       0x61 //usr/lib32/libc_nonshared.a(elf-init.oS)
+                0x00000000000012b0                __libc_csu_init
+                0x0000000000001310                __libc_csu_fini
+ .text          0x0000000000001311        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .text          0x0000000000001311        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000000000001314       0x14
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000001314        0xf /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+                0x0000000000001314                _fini
+ .fini          0x0000000000001323        0x5 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000002000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000002000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000002000        0xe
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000002000        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000002000                _fp_hw
+ .rodata.cst4   0x0000000000002004        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000002004                _IO_stdin_used
+ .rodata        0x0000000000002008        0x6 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000002010       0x64
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000002010       0x64 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000002010                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000002074      0x1a4
+ *(.eh_frame)
+ .eh_frame      0x0000000000002074       0x2c /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .eh_frame      0x00000000000020a0       0x3c /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000020dc       0x14 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                                         0x2c (size before relaxing)
+ .eh_frame      0x00000000000020f0       0xc4 CMakeFiles/Sandbox32.dir/test.cpp.o
+                                         0xf0 (size before relaxing)
+ .eh_frame      0x00000000000021b4       0x60 //usr/lib32/libc_nonshared.a(elf-init.oS)
+                                         0x8c (size before relaxing)
+ .eh_frame      0x0000000000002214        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000003ecc                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata          0x0000000000003ecc        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000003ecc        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000003ecc        0x4
+                0x0000000000003ecc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000003ecc        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                0x0000000000003ed0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000003ed0        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000003ed0        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000003ed4        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000003ed4        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+
+.dynamic        0x0000000000003ed4      0x118
+ *(.dynamic)
+ .dynamic       0x0000000000003ed4      0x118 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000003ed4                _DYNAMIC
+
+.got            0x0000000000003fec       0x14
+ *(.got)
+ .got           0x0000000000003fec       0x14 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.igot)
+                0x0000000000004ff4                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000000000004000       0x20
+ *(.got.plt)
+ .got.plt       0x0000000000004000       0x20 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000004000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000004020        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000004020        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+                0x0000000000004020                data_start
+                0x0000000000004020                __data_start
+ .data          0x0000000000004024        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ .data          0x0000000000004024        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .data.rel.local
+                0x0000000000004024        0x4 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                0x0000000000004024                __dso_handle
+ .data          0x0000000000004028        0x0 CMakeFiles/Sandbox32.dir/test.cpp.o
+ .data          0x0000000000004028        0x0 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .data          0x0000000000004028        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .data          0x0000000000004028        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+
+.tm_clone_table
+                0x0000000000004028        0x0
+ .tm_clone_table
+                0x0000000000004028        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ .tm_clone_table
+                0x0000000000004028        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000004028                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000004028                . = .
+                0x0000000000004028                __bss_start = .
+
+.bss            0x0000000000004040       0xbc
+ *(.dynbss)
+ .dynbss        0x0000000000004040        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000004040        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/Scrt1.o
+ .bss           0x0000000000004040        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crti.o
+ .bss           0x0000000000004040        0x1 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+ *fill*         0x0000000000004041       0x1f 
+ .bss           0x0000000000004060       0x9c CMakeFiles/Sandbox32.dir/test.cpp.o
+                0x0000000000004060                test
+ .bss           0x00000000000040fc        0x0 //usr/lib32/libc_nonshared.a(elf-init.oS)
+ .bss           0x00000000000040fc        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+ .bss           0x00000000000040fc        0x0 /usr/lib/gcc/x86_64-linux-gnu/8/../../../../lib32/crtn.o
+ *(COMMON)
+                0x00000000000040fc                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00000000000040fc                . = ALIGN (0x4)
+                0x00000000000040fc                . = SEGMENT_START ("ldata-segment", .)
+                0x00000000000040fc                . = ALIGN (0x4)
+                0x00000000000040fc                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x00000000000040fc                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x1c
+ *(.comment)
+ .comment       0x0000000000000000       0x1c /usr/lib/gcc/x86_64-linux-gnu/8/32/crtbeginS.o
+                                         0x1d (size before relaxing)
+ .comment       0x000000000000001c       0x1d CMakeFiles/Sandbox32.dir/test.cpp.o
+ .comment       0x000000000000001c       0x1d /usr/lib/gcc/x86_64-linux-gnu/8/32/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x20
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0xe21
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0xe21 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_abbrev   0x0000000000000000      0x243
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x243 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_line     0x0000000000000000      0x229
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x229 CMakeFiles/Sandbox32.dir/test.cpp.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x132c
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x132c CMakeFiles/Sandbox32.dir/test.cpp.o
+                                       0x13ce (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(Sandbox32 elf32-i386)
+.lto_*)
+OUTPUT(Sandbox64 elf64-x86-64)

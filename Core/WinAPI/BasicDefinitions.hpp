@@ -1,0 +1,11 @@
+#if !defined(_BASIC_DEFINITIONS_HPP_)
+#define _BASIC_DEFINITIONS_HPP_
+
+#define CURRENT_PROCESS_HANDLE ((HANDLE)(-1))
+
+#define DEFAULT_HEAP ((void*)*(char**)"heap0000")
+
+#define INVALID_HANDLE_VALUE ((HANDLE)(LONG_PTR)-1)
+
+
+#endif // _BASIC_DEFINITIONS_HPP_

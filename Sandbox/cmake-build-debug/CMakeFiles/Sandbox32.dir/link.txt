@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,-z,stack-size=33554432 -Xlinker -Map=output.map -m32 CMakeFiles/Sandbox32.dir/test.cpp.o -o Sandbox32  -lm -lrt -lpthread 

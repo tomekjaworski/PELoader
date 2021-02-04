@@ -1,0 +1,4 @@
+/root/Desktop/PELoader/Sandbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/Desktop/PELoader/Sandbox/cmake-build-debug/CMakeFiles/Sandbox64.dir
+/root/Desktop/PELoader/Sandbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/Desktop/PELoader/Sandbox/cmake-build-debug/CMakeFiles/Sandbox32.dir

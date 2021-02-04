@@ -1,0 +1,108 @@
+#include <cstdio>
+#include <unistd.h>
+
+
+int _main(void) {
+//    HandleManager hm;
+//
+//    int h1 = hm.AllocateHandle(HandleType::File, (void*)1);
+//    int h2 = hm.AllocateHandle(HandleType::File, (void*)2);
+//    int h3 = hm.AllocateHandle(HandleType::File, (void*)3);
+//    hm.ReleaseHandle(h2);
+//    hm.ReleaseHandle(h3);
+//    int h4 = hm.AllocateHandle(HandleType::File, (void*)4);
+//    hm.ReleaseHandle(h4);
+//
+//    int h5 = hm.AllocateHandle(HandleType::File, (void*)5);
+//    int h6 = hm.AllocateHandle(HandleType::File, (void*)6);
+//    int h7 = hm.AllocateHandle(HandleType::File, (void*)7);
+//    int h8 = hm.AllocateHandle(HandleType::File, (void*)8);
+//    int h9 = hm.AllocateHandle(HandleType::File, (void*)9);
+//    int h10 = hm.AllocateHandle(HandleType::File, (void*)10);
+//    int h11 = hm.AllocateHandle(HandleType::File, (void*)11);
+//    int h12 = hm.AllocateHandle(HandleType::File, (void*)12);
+//    int h13 = hm.AllocateHandle(HandleType::File, (void*)13);
+//    int h14 = hm.AllocateHandle(HandleType::File, (void*)14);
+
+}
+
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <fcntl.h>
+#include <vector>
+#include <sys/socket.h>
+#include <stdlib.h>
+#include <new>
+
+class X {
+public:
+    X() {
+        //
+        printf("ctor");
+    }
+
+    ~X() {
+        printf("dtor");
+    }
+
+//    static void* operator new(std::size_t sz, const std::nothrow_t& tag) {
+//        void* p = std::malloc(sz);
+//        return p;
+//    }
+//    static void* operator new(std::size_t sz) {
+//        void* p = std::malloc(sz);
+//        return p;
+//    }
+    static void* operator new(std::size_t count) noexcept {
+        return nullptr;
+    }
+//    static void* operator new(std::size_t sz, const std::nothrow_t& x) {
+//        void* p = std::malloc(sz);
+//        return nullptr;
+//        //return p;
+//    }
+};
+
+int main(void) {
+
+    //X* px1 = new X();
+    X* px2 = new X();
+
+    mkdir("temp", 0760);
+    std::vector<int> handles;
+    std::vector<int> handles2;
+    for (int i = 0; i < 100; i++) {
+        char name[100];
+        snprintf(name, sizeof(name), "temp/fn%03d.txt", i);
+        int h = open(name, O_CREAT);
+        handles.push_back(h);
+
+        int h2 = socket(AF_INET, SOCK_STREAM, 0); // tcp
+        handles2.push_back(h2);
+    }
+
+    for (int handle : handles)
+        ::close(handle);
+    for (int handle : handles2)
+        ::close(handle);
+
+    int c = write(STDOUT_FILENO, "ala\n", 4);
+
+    printf("sizeof(void*)=%d\n", sizeof(void*));
+
+    char buffer[100];
+    //c = read(STDIN_FILENO, buffer, sizeof(buffer));
+
+    const wchar_t* p = L"ola";
+    const char16_t* p16 = u"aleksandra";
+    printf("[%s] [%ls]", "ala", p);
+
+    const char* t1 = "Zażółć gęsią jaźń"; // utf8
+    const char16_t* t2 = u"Zażółć gęsią jaźń";
+    const wchar_t* t3 = L"Zażółć gęsią jaźń";
+
+    printf("t1=[%s]\n", t1);
+    printf("t3=[%ls]\n", t3);
+
+    return 0;
+}

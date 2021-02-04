@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PELoader"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Core\;CMake Files\Sandbox\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Core64">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Core64" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Core"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 Core64"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Core64/fast">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Core64" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Core"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 Core64/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Core32">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Core32" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Core"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 Core32"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Core32/fast">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Core32" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Core"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 Core32/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sandbox64">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Sandbox64" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 Sandbox64"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sandbox64/fast">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Sandbox64" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 Sandbox64/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sandbox32">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Sandbox32" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 Sandbox32"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sandbox32/fast">
+				<Option output="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Sandbox32" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 Sandbox32/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/sf_CProgramming/PELoader/cmake-build-debug/Sandbox/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/FileDataProvider.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/FileDataProvider.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Globals.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Globals.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Handles/HandleEntry.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Handles/HandleManager.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Handles/HandleManager.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Handles/HandleType.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Helpers/Helper.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Host/AnsiCodes.h">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Host/Constants.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Enums/DllCharacteristicFlags.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Enums/ImageCharacteristicFlags.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Enums/ImageDataDirectoryIndex.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Enums/ImageSubsystem.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Enums/MachineType.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Enums/PEOptionalHeaderMagic.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Enums/SectionFlags.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Loader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/LoaderError.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/MemoryView.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/PageBlockEntry.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Parsers/DosStubHeaderParser.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Parsers/DosStubHeaderParser.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/DosExecutableStubHeader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/ImageDataDirectoryEntry.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/ImportTable/ImportDirectoryTableHeader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/ImportTable/ImportLookupTableEntry.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/ImportTable/NameHintEntry.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/PE32OptionalHeader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/PE64OptionalHeader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/PEExecutableHeader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/PESectionHeader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Loader/Structures/ThreadInformationBlock.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Locales/LocaleBasicTypes.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Locales/ansi_cp1250.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Locales/ansi_cp1252.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Locales/cp1250_ansi.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Locales/cp1252_ansi.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Locales/ucs16_case_conversion.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Locales/ucs16_char_types.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/ProcessControlBlock.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/ProcessControlBlock.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/ProcessControlBlockError.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Stub/Stub.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Stub/Stub.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Trace/Trace.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/Trace/Trace.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/UCS16/UCS16.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/BasicDefinitions.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/BasicMacros.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/BasicTypes.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Console/CP.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Console/Console.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Console/Mode.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Console/StandardHandle.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Console/Write.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Debug/Break.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Debug/Debug.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Debug/IsPresent.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Debug/Printers.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ErrorCodes.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ErrorHandling/ErrorHandling.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ErrorHandling/LastError.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ErrorHandling/Raise.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ErrorHandling/SetExceptionFilter.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Create.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Delete.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/File.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/FilePointer.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Find.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Flush.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Read.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Size.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Type.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/File/Write.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Handle/Close.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Handle/Handle.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Heap/Alloc.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Heap/Heap.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Interlocked/Interlocked.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Interlocked/SingleLinkedList.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/InternalHelpers.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Kernel32.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Kernel32.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/LibLoader/FreeLibrary.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/LibLoader/LibLoader.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/LibLoader/Load.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/LibLoader/ModuleFileName.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/LibLoader/ModuleHandle.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/LibLoader/ProcAddress.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/NLS/CodePage.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/NLS/NLS.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessEnvironment/CommandLine.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessEnvironment/ProcesEnv.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessEnvironment/Strings.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessEnvironment/Variables.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/ExitProcess.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/GetCurrentProcess.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/GetCurrentThread.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/LocalStorage.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/ProcessThread.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/ProcessorFeatures.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/StartupInfo.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/ProcessThread/Terminate.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Profile/Profile.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Profile/Query.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Strings/Compare.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Strings/LocaleMapString.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Strings/MultiByteToWideChar.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Strings/StringType.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Strings/Strings.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Strings/WideCharToMultiByte.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Synchronization/CriticalSection.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Synchronization/Sleep.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Synchronization/Synchronization.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/SysInfo/SysInfo.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/SysInfo/SystemTimeAsFileTime.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Util/Pointers.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/Util/Util.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/WinNT/CaptureContext.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/WinNT/FunctionLookup.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/WinNT/Unwind.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/WinNT/VirtualUnwind.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinAPI/WinNT/WinNT.hpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinApiFunction.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/WinApiFunction.h">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/main.cpp">
+			<Option target="Core64"/>
+			<Option target="Core32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Sandbox/test.cpp">
+			<Option target="Sandbox64"/>
+			<Option target="Sandbox32"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Core/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Core\"/>
+		</Unit>
+		<Unit filename="/media/sf_CProgramming/PELoader/Sandbox/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Sandbox\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

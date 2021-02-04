@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Desktop/PELoader/Sandbox/test.cpp
+cstdio
+-
+unistd.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+fcntl.h
+-
+vector
+-
+sys/socket.h
+-
+stdlib.h
+-
+

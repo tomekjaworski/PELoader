@@ -1,0 +1,26 @@
+#if !defined(_WINAPI_HEAP_HPP_)
+#define _WINAPI_HEAP_HPP_
+
+namespace Core::WinAPI::Heap {
+
+WINBASEAPI DECLSPEC_ALLOCATOR LPVOID WINAPI HeapAlloc(HANDLE hHeap, DWORD dwFlags, SIZE_T dwBytes);
+
+WINBASEAPI DECLSPEC_ALLOCATOR LPVOID WINAPI HeapReAlloc(HANDLE hHeap, DWORD dwFlags, LPVOID lpMem, SIZE_T dwBytes);
+
+WINBASEAPI BOOL WINAPI HeapFree(HANDLE hHeap, DWORD dwFlags, LPVOID lpMem);
+
+//
+//
+
+WINBASEAPI SIZE_T WINAPI HeapSize(HANDLE hHeap, DWORD dwFlags, LPCVOID lpMem);
+
+//
+//
+
+WINBASEAPI HANDLE WINAPI GetProcessHeap(VOID);
+
+
+}
+
+#endif // _WINAPI_HEAP_HPP_
+

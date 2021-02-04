@@ -1,0 +1,27 @@
+#if !defined(_WINAPI_ERRORHANDLING_HPP_)
+#define _WINAPI_ERRORHANDLING_HPP_
+
+namespace Core::WinAPI::ErrorHandling {
+
+FORWARD_POINTER(LPTOP_LEVEL_EXCEPTION_FILTER)
+
+//
+//
+
+WINBASEAPI LONG WINAPI UnhandledExceptionFilter(struct _EXCEPTION_POINTERS* ExceptionInfo);
+
+WINBASEAPI LPTOP_LEVEL_EXCEPTION_FILTER WINAPI
+SetUnhandledExceptionFilter(LPTOP_LEVEL_EXCEPTION_FILTER lpTopLevelExceptionFilter);
+
+WINBASEAPI VOID WINAPI
+RaiseException(DWORD dwExceptionCode, DWORD dwExceptionFlags, DWORD nNumberOfArguments, CONST ULONG_PTR* lpArguments);
+
+//
+//
+WINBASEAPI DWORD WINAPI GetLastError(VOID);
+
+WINBASEAPI VOID WINAPI SetLastError(DWORD dwErrCode);
+
+}
+
+#endif // _WINAPI_ERRORHANDLING_HPP_
